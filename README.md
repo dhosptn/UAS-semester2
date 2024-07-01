@@ -12,8 +12,6 @@
 
 > **Keterangan** : Terdapat 5 tabel yang terdiri dari tabel Perusahaan, Departemen, Karyawan, Project dan Project Detail.
 
-## Latihan Praktikum 7
-
 ### 1. Menampilkan Nama Karyawan yang Berada di Departemen yang Dipimpin oleh Manajer dengan Nama 'Rika'
 
 **Script :**
